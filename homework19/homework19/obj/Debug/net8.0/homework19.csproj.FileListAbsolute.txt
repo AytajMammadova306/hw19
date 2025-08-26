@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\academy\HW\homework19\homework19\bin\Debug\net8.0\homework19.exe
+C:\Users\User\Desktop\academy\HW\homework19\homework19\bin\Debug\net8.0\homework19.deps.json
+C:\Users\User\Desktop\academy\HW\homework19\homework19\bin\Debug\net8.0\homework19.runtimeconfig.json
+C:\Users\User\Desktop\academy\HW\homework19\homework19\bin\Debug\net8.0\homework19.dll
+C:\Users\User\Desktop\academy\HW\homework19\homework19\bin\Debug\net8.0\homework19.pdb
+C:\Users\User\Desktop\academy\HW\homework19\homework19\obj\Debug\net8.0\homework19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\academy\HW\homework19\homework19\obj\Debug\net8.0\homework19.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\academy\HW\homework19\homework19\obj\Debug\net8.0\homework19.AssemblyInfo.cs
+C:\Users\User\Desktop\academy\HW\homework19\homework19\obj\Debug\net8.0\homework19.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\academy\HW\homework19\homework19\obj\Debug\net8.0\homework19.dll
+C:\Users\User\Desktop\academy\HW\homework19\homework19\obj\Debug\net8.0\refint\homework19.dll
+C:\Users\User\Desktop\academy\HW\homework19\homework19\obj\Debug\net8.0\homework19.pdb
+C:\Users\User\Desktop\academy\HW\homework19\homework19\obj\Debug\net8.0\homework19.genruntimeconfig.cache
+C:\Users\User\Desktop\academy\HW\homework19\homework19\obj\Debug\net8.0\ref\homework19.dll
